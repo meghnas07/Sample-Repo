@@ -1,1 +1,2 @@
-This is my App for learning
+# sample  project  
+This is my App for learning. 
